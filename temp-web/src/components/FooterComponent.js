@@ -13,7 +13,7 @@ function Footer(props) {
                             <nav className="nav-footer">
                                 <ul className="list-inline">
                                     <li className="list-inline-item">
-                                        <a href="#">
+                                        <a href="/home">
                                             <p>Acceuil</p> 
                                         </a>
                                     </li><li className="list-inline-item"></li>

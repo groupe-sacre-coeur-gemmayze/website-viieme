@@ -62,7 +62,10 @@ function Publications(props){
                             <div className="row">
                                 <div className="col-lg-2  d-none d-lg-block">
                                     <div className="title-vertical d-flex justify-content-start">
-                                        <span>Edition 2003</span>
+                                        <div className="title-box-d">
+                                            <div className="title-d"></div>
+                                            <span>Edition 2003</span>
+                                        </div>
                                     </div>
                                 </div>
                                 <div className="col-md-6 col-lg-5 section-md-t3">

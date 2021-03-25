@@ -74,7 +74,7 @@ class Header extends Component{
                                 </NavItem>
                                 {/**ACTIVITES */}
                                 <NavItem className="nav-item">
-                                    <NavLink className="nav-link" to="/activities">
+                                    <NavLink className="nav-link" to="/activites">
                                         <span>Activités</span>
                                     </NavLink>
                                 </NavItem>
@@ -91,11 +91,11 @@ class Header extends Component{
                                     </NavLink>
                                     <NavItem className="dropdown-menu">
                                         <NavLink to="/louvettes" className="dropdown-item">Louvettes</NavLink>
-                                        <NavLink to="/louveteux" className="dropdown-item">Louveteaux</NavLink>
+                                        <NavLink to="/louveteaux" className="dropdown-item">Louveteaux</NavLink>
                                         <NavLink to="/eclaireuses" className="dropdown-item">Eclaireuses</NavLink>
                                         <NavLink to="/eclaireurs" className="dropdown-item">Eclaireurs</NavLink>
                                         <NavLink to="/pionnieres" className="dropdown-item">Pionnières</NavLink>
-                                        <NavLink to="/route" className="dropdown-item">Route</NavLink>
+                                        <NavLink to="/routiers" className="dropdown-item">Route</NavLink>
                                     </NavItem>
                                 </NavItem>
                                 {/**CONTACT */}
