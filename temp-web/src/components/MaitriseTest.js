@@ -73,7 +73,7 @@ function MaitriseTest(props) {
                     <TabPane tabId="1" className="tab-pane fade show" id="pills-mdg" role="tabpanel" aria-labelledby="pills-mdg-tab">
                         <Row>
                             {/**CHEF DE GROUPE */}
-                            <Col md="4">        
+                            <Col md="4" sm="4">        
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
                                         <h2 className=" title-a">Chef de Groupe</h2>
@@ -81,17 +81,16 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/anthony-jreige.jpeg" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
-
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        Anthony Jreige
-                                                    </h3>
-                                                </div>
+                                        <img src="assets/images/anthony-jreige.jpeg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    Anthony <br/> Jreige
+                                                </h3>
                                             </div>
+                                        </div>
 
                                             <div className="card-body-d">
                                                 <p className="content-d color-text-a">
@@ -111,7 +110,7 @@ function MaitriseTest(props) {
                             </Col>
 
                             {/**AUMONIER DE GROUPE */}
-                            <Col md="4">                
+                            <Col md="4" sm="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
                                         <h2 className=" title-a">Aumonier de Groupe</h2>
@@ -126,7 +125,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Frère Jean-Claude Abou Atmeh</a>
+                                                    <a href="agent-single.html" className="link-two">Frère <br/> Jean-Claude <br/> Abou-Atmeh</a>
                                                 </h3>
                                             </div>
                                         </div>
@@ -149,7 +148,7 @@ function MaitriseTest(props) {
                             </Col>
 
                             {/**SECRETAIRE DE GROUPE */}
-                            <Col md="4">                                         
+                            <Col md="4" sm="4">                                         
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
                                         <h2 className=" title-a">Secretaire de Groupe</h2>
@@ -164,7 +163,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Maroun Fahed</a>
+                                                    <a href="agent-single.html" className="link-two">Maroun <br/> Fahed</a>
                                                 </h3>
                                             </div>
                                         </div>
