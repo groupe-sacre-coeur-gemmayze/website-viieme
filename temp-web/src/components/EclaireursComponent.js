@@ -143,26 +143,8 @@ function Eclaireurs(props) {
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
                                                 <a href="#">Troupe
-                                                <br /> Etoile 1</a>
+                                                <br /> Etoile</a>
                                             </h2>
-                                        </div>
-                                        {/**CARD BODY */}
-                                        <div class="card-body-a">
-                                            <div class="price-box d-flex">
-                                                <span class="price-a">Troupe Etoile 2</span>
-                                            </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
-                                        </div>
-                                        {/**CARD FOOTER */}
-                                        <div class="card-footer-a">
-                                            <ul class="card-info d-flex justify-content-around">
-                                                <li>
-                                                    <h4 class="card-info-title">Patrouille</h4>
-                                                    <span>Example</span>
-                                                </li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -183,26 +165,8 @@ function Eclaireurs(props) {
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
                                                 <a href="#">Troupe
-                                                <br /> Source 1</a>
+                                                <br /> Source</a>
                                             </h2>
-                                        </div>
-                                        {/**CARD BODY */}
-                                        <div class="card-body-a">
-                                            <div class="price-box d-flex">
-                                                <span class="price-a">Troupe Source 2</span>
-                                            </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
-                                        </div>
-                                        {/**CARD FOOTER */}
-                                        <div class="card-footer-a">
-                                            <ul class="card-info d-flex justify-content-around">
-                                                <li>
-                                                    <h4 class="card-info-title">Patrouille</h4>
-                                                    <span>Example</span>
-                                                </li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -223,26 +187,8 @@ function Eclaireurs(props) {
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
                                                 <a href="#">Troupe
-                                                <br /> Flamme 1</a>
+                                                <br /> Flamme</a>
                                             </h2>
-                                        </div>
-                                        {/**CARD BODY */}
-                                        <div class="card-body-a">
-                                            <div class="price-box d-flex">
-                                                <span class="price-a">Troupe Flamme 2</span>
-                                            </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
-                                        </div>
-                                        {/**CARD FOOTER */}
-                                        <div class="card-footer-a">
-                                            <ul class="card-info d-flex justify-content-around">
-                                                <li>
-                                                    <h4 class="card-info-title">Patrouille</h4>
-                                                    <span>Example</span>
-                                                </li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>
