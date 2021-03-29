@@ -140,7 +140,7 @@ function Eclaireuses(props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Troupe
+                                                <a href="troupe-cascade">Troupe
                                                 <br /> Cascade</a>
                                             </h2>
                                         </div>

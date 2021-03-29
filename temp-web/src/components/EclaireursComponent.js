@@ -142,7 +142,7 @@ function Eclaireurs(props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Troupe
+                                                <a href="troupe-etoile">Troupe
                                                 <br /> Etoile</a>
                                             </h2>
                                         </div>
@@ -164,7 +164,7 @@ function Eclaireurs(props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Troupe
+                                                <a href="troupe-source">Troupe
                                                 <br /> Source</a>
                                             </h2>
                                         </div>
@@ -186,7 +186,7 @@ function Eclaireurs(props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Troupe
+                                                <a href="troupe-flamme">Troupe
                                                 <br /> Flamme</a>
                                             </h2>
                                         </div>

@@ -45,9 +45,9 @@ function Branches (props) {
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
                                             <ul class="card-info d-flex justify-content-around">
-                                                <li>
+                                                <li><a href="meute-mistral">
                                                     <h4 class="card-info-title">Meute</h4>
-                                                    <span>Mistral</span>
+                                                    <span>Mistral</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -82,10 +82,10 @@ function Branches (props) {
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
                                             <ul class="card-info d-flex justify-content-around">
-                                                <li>
+                                                <li><a href="troupe-cascade">
                                                     <h4 class="card-info-title">Troupe</h4>
                                                         <span>Cascade
-                                                    </span>
+                                                    </span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -161,13 +161,13 @@ function Branches (props) {
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
                                             <ul class="card-info d-flex justify-content-around">
-                                                <li>
+                                                <li><a href="meute-blizzard">
                                                     <h4 class="card-info-title">Meute</h4>
-                                                    <span>Blizzard</span>
+                                                    <span>Blizzard</span></a>
                                                 </li>
-                                                <li>
+                                                <li><a href="meute-magma">
                                                     <h4 class="card-info-title">Meute</h4>
-                                                    <span>Magma</span>
+                                                    <span>Magma</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -202,17 +202,17 @@ function Branches (props) {
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
                                             <ul class="card-info d-flex justify-content-around">
-                                                <li>
+                                                <li><a href="troupe-flamme">
                                                     <h4 class="card-info-title">Troupe</h4>
-                                                    <span>Flamme</span>
+                                                    <span>Flamme</span></a>
                                                 </li>
-                                                <li>
+                                                <li><a href="troupe-source">
                                                     <h4 class="card-info-title">Troupe</h4>
-                                                    <span>Source</span>
+                                                    <span>Source</span></a>
                                                 </li>
-                                                <li>
+                                                <li><a href="troupe-etoile">
                                                     <h4 class="card-info-title">Troupe</h4>
-                                                    <span>Etoile</span>
+                                                    <span>Etoile</span></a>
                                                 </li>
                                             </ul>
                                         </div>
