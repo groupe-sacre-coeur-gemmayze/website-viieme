@@ -32,7 +32,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche
+                                                <a href="louvettes">Branche
                                                 <br /> Louvettes</a>
                                             </h2>
                                         </div>
@@ -41,9 +41,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">8 à 12 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
@@ -72,7 +69,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche 
+                                                <a href="eclaireuses">Branche 
                                                 <br />Eclaireuses</a>
                                             </h2>
                                         </div>
@@ -81,9 +78,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">12 à 17 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
@@ -113,7 +107,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche 
+                                                <a href="pionnieres">Branche 
                                                 <br />Pionnières</a>
                                             </h2>
                                         </div>
@@ -122,9 +116,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">17 à 22 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
@@ -157,7 +148,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche
+                                                <a href="louveteaux">Branche
                                                 <br />Louveteaux</a>
                                             </h2>
                                         </div>
@@ -166,9 +157,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">8 à 12 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
@@ -201,7 +189,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche 
+                                                <a href="/eclaireurs">Branche 
                                                 <br />Eclaireurs</a>
                                             </h2>
                                         </div>
@@ -210,9 +198,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">12 à 17 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
@@ -249,7 +234,7 @@ function Branches (props) {
                                         {/**CARD HEADER */}
                                         <div class="card-header-a">
                                             <h2 class="card-title-a">
-                                                <a href="#">Branche 
+                                                <a href="routiers">Branche 
                                                 <br />Route</a>
                                             </h2>
                                         </div>
@@ -258,9 +243,6 @@ function Branches (props) {
                                             <div class="price-box d-flex">
                                                 <span class="price-a">17 à 22 ans</span>
                                             </div>
-                                            <a href="property-single.html" class="link-a">Click here to view
-                                                <span class="ion-ios-arrow-forward"></span>
-                                            </a>
                                         </div>
                                         {/**CARD FOOTER */}
                                         <div class="card-footer-a">
