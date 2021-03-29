@@ -81,7 +81,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/anthony-jreige.jpeg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/anthony-jreige.jpeg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -119,7 +119,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/frere-jean-claude.jpg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/frere-jean-claude.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -156,7 +156,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maroun-fahed.jpg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/maroun-fahed.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
 
                                     <div className="card-overlay card-overlay-hover">
@@ -211,7 +211,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/emma-zovighian.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/emma-zovighian.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -250,7 +250,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/sarah-chidiac.jpg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/sarah-chidiac.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -301,7 +301,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/jana-adaimy.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/jana-adaimy.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -340,7 +340,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/marielle-fahed.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/marielle-fahed.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -392,7 +392,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/anna-kamar.jpg" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/anna-kamar.jpg" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -448,7 +448,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/samantha-elkhoury.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/samantha-elkhoury.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
 
@@ -487,7 +487,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/nour-haddad.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/nour-haddad.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -525,7 +525,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/cynthia-mnayar.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/cynthia-mnayar.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -578,7 +578,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/rudy-badawi.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/rudy-badawi.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -617,7 +617,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/carl-saad.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/carl-saad.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -655,7 +655,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/michel-saloume.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/michel-saloume.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -707,7 +707,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/jack-mouaykel.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/jack-mouaykel.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -746,7 +746,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/alexis-hajj.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/alexis-hajj.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -784,7 +784,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/charbel-abdallah.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/charbel-abdallah.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -836,7 +836,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/fayssal-balhawan.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/fayssal-balhawan.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -875,7 +875,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/mario-jreige.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/mario-jreige.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -913,7 +913,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/michel-saliba.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/michel-saliba.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -967,7 +967,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/sara-naji.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/sara-naji.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -1006,7 +1006,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maria-salameh.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/maria-salameh.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -1044,7 +1044,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/mira-harik.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/mira-harik.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -1097,7 +1097,7 @@ function MaitriseTest(props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/elie-feghali.JPG" alt="" className="img-d img-fluid"/>
+                                                    <img src="assets/images/maitrise/elie-feghali.JPG" alt="" className="img-d img-fluid"/>
                                                 </div>
                                         <div className="card-overlay card-overlay-hover">
 
@@ -1136,7 +1136,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/fadi-suidan.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/fadi-suidan.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -1174,7 +1174,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/eloy-nemer.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/eloy-nemer.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -1212,7 +1212,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/tarek-sukkar.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/tarek-sukkar.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
@@ -1250,7 +1250,7 @@ function MaitriseTest(props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/walid-zakhour.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/maitrise/walid-zakhour.JPG" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
