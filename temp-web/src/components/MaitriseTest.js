@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TabContent, TabPane, Nav, NavItem, NavLink, Card, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
+import { TabContent, TabPane, Nav, NavItem, NavLink, Card, CardImg, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
 import classnames from 'classnames';
 
 function MaitriseTest(props) {
@@ -92,21 +92,21 @@ function MaitriseTest(props) {
                                             </div>
                                         </div>
 
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dit Hulotte Désopilant
+                                        <div className="card-body-d">
+                                            <p className="content-d color-text-a">
+                                                dit Hulotte Désopilant
+                                            </p>
+                                            <div className="info-agents color-a">
+                                                <p>
+                                                    <strong>Phone: </strong> +961 71 145 497
                                                 </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 71 145 497
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> anthonyjreige@example.com
-                                                    </p>
-                                                </div>
+                                                <p>
+                                                    <strong>Email: </strong> anthonyjreige@example.com
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
+                                </div>
                             </Col>
 
                             {/**AUMONIER DE GROUPE */}
