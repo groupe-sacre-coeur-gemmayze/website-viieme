@@ -26,6 +26,7 @@ function TroupeFlamme (props) {
                 </div>
             </section>
         
+            {/**TROUPE FLAMME MEMBRE ET MAITRISE */}
             <div className="col-md-10 offset-md-1">
                 {/**TAB BAR */}
                 <Nav className="nav nav-pills-a nav-pills mb-3" id="pills-tab" role="tablist">

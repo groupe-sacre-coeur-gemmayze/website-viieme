@@ -131,68 +131,74 @@ function Eclaireurs(props) {
                         
                         {/**TROUPE ETOILE */}
                         <div class="col-md-4">
-                            <div class="card-box-a card-shadow">
-                                {/**IMAGE BOX */}
-                                <div class="img-box-a">
-                                    <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                </div>
-                                {/**CARD OVERLAY */}
-                                <div class="card-overlay">
-                                    <div class="card-overlay-a-content">
-                                        {/**CARD HEADER */}
-                                        <div class="card-header-a">
-                                            <h2 class="card-title-a">
-                                                <a href="troupe-etoile">Troupe
-                                                <br /> Etoile</a>
-                                            </h2>
+                            <a href="troupe-etoile">
+                                <div class="card-box-a card-shadow">
+                                    {/**IMAGE BOX */}
+                                    <div class="img-box-a">
+                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
+                                    </div>
+                                    {/**CARD OVERLAY */}
+                                    <div class="card-overlay">
+                                        <div class="card-overlay-a-content">
+                                            {/**CARD HEADER */}
+                                            <div class="card-header-a">
+                                                <h2 class="card-title-a">
+                                                    Troupe
+                                                    <br /> Etoile
+                                                </h2>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
                         {/**TROUPE SOURCE */}
                         <div class="col-md-4">
-                            <div class="card-box-a card-shadow">
-                                {/**IMAGE BOX */}
-                                <div class="img-box-a">
-                                    <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                </div>
-                                {/**CARD OVERLAY */}
-                                <div class="card-overlay">
-                                    <div class="card-overlay-a-content">
-                                        {/**CARD HEADER */}
-                                        <div class="card-header-a">
-                                            <h2 class="card-title-a">
-                                                <a href="troupe-source">Troupe
-                                                <br /> Source</a>
-                                            </h2>
+                            <a href="troupe-source">
+                                <div class="card-box-a card-shadow">
+                                    {/**IMAGE BOX */}
+                                    <div class="img-box-a">
+                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
+                                    </div>
+                                    {/**CARD OVERLAY */}
+                                    <div class="card-overlay">
+                                        <div class="card-overlay-a-content">
+                                            {/**CARD HEADER */}
+                                            <div class="card-header-a">
+                                                <h2 class="card-title-a">
+                                                    Troupe
+                                                    <br /> Source
+                                                </h2>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
                         {/**TROUPE FLAMME */}
                         <div class="col-md-4">
-                            <div class="card-box-a card-shadow">
-                                {/**IMAGE BOX */}
-                                <div class="img-box-a">
-                                    <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                </div>
-                                {/**CARD OVERLAY */}
-                                <div class="card-overlay">
-                                    <div class="card-overlay-a-content">
-                                        {/**CARD HEADER */}
-                                        <div class="card-header-a">
-                                            <h2 class="card-title-a">
-                                                <a href="troupe-flamme">Troupe
-                                                <br /> Flamme</a>
-                                            </h2>
+                            <a href="troupe-flamme">
+                                <div class="card-box-a card-shadow">
+                                    {/**IMAGE BOX */}
+                                    <div class="img-box-a">
+                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
+                                    </div>
+                                    {/**CARD OVERLAY */}
+                                    <div class="card-overlay">
+                                        <div class="card-overlay-a-content">
+                                            {/**CARD HEADER */}
+                                            <div class="card-header-a">
+                                                <h2 class="card-title-a">
+                                                    Troupe
+                                                    <br /> Flamme
+                                                </h2>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
                     </div>
