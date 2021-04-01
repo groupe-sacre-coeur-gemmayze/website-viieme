@@ -27,6 +27,7 @@ import TroupeSource from './TroupeSourceComponent';
 import TroupeFlamme from './TroupeFlammeComponent';
 import BranchePionnieres from './BranchePionnieresComponent';
 import BrancheRoute from './BrancheRouteComponent';
+import Example from './TestComponent';
 import { Switch, Route, Redirect} from 'react-router-dom';
 
 class Main extends Component { 
