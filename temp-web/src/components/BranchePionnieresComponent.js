@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Routiers(props) {
+function BranchePionnieres(props) {
     return(
         <div>
             <section className="intro-single">
@@ -8,7 +8,7 @@ function Routiers(props) {
                     <div className="row">
                         <div className="col-md-12 col-lg-8">
                             <div className="title-single-box">
-                                <h1 className="title-single">Branche Route</h1>
+                                <h1 className="title-single">Branche Pionnières</h1>
                             </div>
                         </div>
                     </div>
@@ -18,4 +18,4 @@ function Routiers(props) {
     );
 }
 
-export default Routiers;
+export default BranchePionnieres;

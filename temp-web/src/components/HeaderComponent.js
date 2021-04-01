@@ -90,12 +90,12 @@ class Header extends Component{
                                         Branches
                                     </NavLink>
                                     <NavItem className="dropdown-menu">
-                                        <NavLink to="/louvettes" className="dropdown-item">Louvettes</NavLink>
-                                        <NavLink to="/louveteaux" className="dropdown-item">Louveteaux</NavLink>
-                                        <NavLink to="/eclaireuses" className="dropdown-item">Eclaireuses</NavLink>
-                                        <NavLink to="/eclaireurs" className="dropdown-item">Eclaireurs</NavLink>
-                                        <NavLink to="/pionnieres" className="dropdown-item">Pionnières</NavLink>
-                                        <NavLink to="/routiers" className="dropdown-item">Route</NavLink>
+                                        <NavLink to="/branche-louvettes" className="dropdown-item">Louvettes</NavLink>
+                                        <NavLink to="/branche-louveteaux" className="dropdown-item">Louveteaux</NavLink>
+                                        <NavLink to="/branche-eclaireuses" className="dropdown-item">Eclaireuses</NavLink>
+                                        <NavLink to="/branche-eclaireurs" className="dropdown-item">Eclaireurs</NavLink>
+                                        <NavLink to="/branche-pionnieres" className="dropdown-item">Pionnières</NavLink>
+                                        <NavLink to="/branche-route" className="dropdown-item">Route</NavLink>
                                     </NavItem>
                                 </NavItem>
                                 {/**CONTACT */}

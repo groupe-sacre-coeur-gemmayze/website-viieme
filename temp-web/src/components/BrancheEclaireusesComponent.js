@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Eclaireurs(props) {
+function BrancheEclaireuses(props) {
     return(
         <div>
             {/**PAGE TITLE */}
@@ -9,7 +9,7 @@ function Eclaireurs(props) {
                     <div className="row">
                         <div className="col-md-12 col-lg-8">
                             <div className="title-single-box">
-                                <h1 className="title-single">Branche Eclaireurs</h1>
+                                <h1 className="title-single">Branche Eclaireuses</h1>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@ function Eclaireurs(props) {
                             {/**TEXT BOX */}
                             <div className="sinse-box">
                                 <h3 className="sinse-title">
-                                    Branche Eclaireurs
+                                    Branche Eclaireuses
                                 </h3>
                             </div>
                         </div>
@@ -49,12 +49,12 @@ function Eclaireurs(props) {
                                     <p className="color-text-a">
                                         Plusieurs patrouilles de 6 à 8 éclaireurs forment la troupe.
                                         <br/><br/>
-                                        Le chef de troupe avec ses assistants dirigent la troupe qui 
-                                        se réunit périodiquement dans des activités, jeux, camps et 
-                                        aventures dont le but est d’aider le scout à grandir dans un 
-                                        environnement sain en vivant les valeurs scoutes (la fidélité, 
-                                        la confiance, le respect, le partage, la discipline,…) 
-                                        et à s’engager à travers la loi et la promesse scoutes.
+                                        La cheftaine de troupe avec ses assistantes dirigent la troupe 
+                                        qui se réunit périodiquement dans des activités, jeux, camps 
+                                        et aventures dont le but est d’aider la scoute à grandir dans 
+                                        un environnement sain en vivant les valeurs scoutes (la fidélité,
+                                         la confiance, le respect, le partage, la discipline,…) 
+                                         et à s’engager à travers la loi et la promesse scoutes.
                                     </p>
                                 </div>
 
@@ -68,23 +68,21 @@ function Eclaireurs(props) {
                                     </div>
                                     {/**TEXT */}
                                     <p className="color-text-a">
-                                    La patrouille est un groupe de copains liés par les mêmes 
+                                    La patrouille est un groupe de copines liées par les mêmes 
                                     préoccupations et la même fraternité. Le but principal du 
-                                    système des patrouilles est de donner une véritable 
-                                    responsabilité au plus grand nombre possible de garçons, 
-                                    pour leur développer le caractère. Chaque patrouille a 
-                                    ses propres traditions: un chant, le cri, une activité, 
-                                    les spécialités…
+                                    système des patrouilles est de donner une véritable responsabilité 
+                                    au plus grand nombre possible de filles, pour leur développer 
+                                    le caractère. Chaque patrouille a ses propres traditions: 
+                                    un chant, le cri, une activité, les spécialités…
                                     <br/><br/>
-                                    La patrouille est dirigée par le chef de patrouille qui 
-                                    est nommé par le chef de troupe et est aidé par le second 
-                                    de patrouille. Le CP est l’ami et le grand frère des membres 
-                                    de la patrouille. Il doit encourager les éclaireurs à prendre 
-                                    plus de responsabilités et cela pour le bon fonctionnement de 
-                                    la patrouille.
+                                    La patrouille est dirigée par la cheftaine de patrouille qui 
+                                    est nommée par la cheftaine de troupe et est aidée par la seconde 
+                                    de patrouille. La CP est l’amie et la grande soeur des membres 
+                                    de la patrouille. Elle doit encourager les éclaireuses à prendre 
+                                    plus de responsabilités et cela pour le bon fonctionnement de la patrouille.
                                     <br/><br/>
                                     La patrouille doit se réunir d’une façon régulière. 
-                                    Durant la réunion, chaque éclaireur partagera ses idées 
+                                    Durant la réunion, chaque éclaireuse partagera ses idées 
                                     et ses suggestions et toutes les activités de patrouille 
                                     seront décidées durant cette réunion.
                                     </p>
@@ -100,15 +98,15 @@ function Eclaireurs(props) {
                                     </div>
                                     {/**TEXT */}
                                     <p className="color-text-a">
-                                    Qu’il soit un aspirant ou un CP, la progression de 
-                                    l’éclaireur ne s’arrête pas. La promesse, la seconde classe, 
-                                    la première classe et les badges contiennent des épreuves 
-                                    pour aider un scout à se développer et progresser au sein 
-                                    de la patrouille et la troupe.
+                                    Qu’elle soit une aspirante ou une CP, la progression de
+                                     l’éclaireuse ne s’arrête pas. La promesse, la seconde classe, 
+                                     la première classe et les badges contiennent des épreuves 
+                                     pour aider une scoute à se développer et progresser au sein 
+                                     de la patrouille et la troupe.
                                     <br/><br/>
                                     L’expression, la découverte, le sport, la vie dans la nature 
-                                    et la technique, plusieurs catégories de badges à choisir selon 
-                                    les compétences de chaque éclaireur.
+                                    et la technique, plusieurs catégories de badges à choisir 
+                                    selon les compétences de chaque éclaireuse.
                                     </p>
                                 </div>
 
@@ -125,13 +123,13 @@ function Eclaireurs(props) {
                         {/**LES TROUPES TITLE */}
                         <div className="col-md-12 section-t8">
                             <div className="title-box-d">
-                                <h3 className="title-d">Les Troupes</h3>
+                                <h3 className="title-d">La Troupe</h3>
                             </div>
                         </div>
                         
-                        {/**TROUPE ETOILE */}
+                        {/**TROUPE CASCADE */}
                         <div class="col-md-4">
-                            <a href="troupe-etoile">
+                            <a href="troupe-cascade">
                                 <div class="card-box-a card-shadow">
                                     {/**IMAGE BOX */}
                                     <div class="img-box-a">
@@ -144,55 +142,7 @@ function Eclaireurs(props) {
                                             <div class="card-header-a">
                                                 <h2 class="card-title-a">
                                                     Troupe
-                                                    <br /> Etoile
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                        {/**TROUPE SOURCE */}
-                        <div class="col-md-4">
-                            <a href="troupe-source">
-                                <div class="card-box-a card-shadow">
-                                    {/**IMAGE BOX */}
-                                    <div class="img-box-a">
-                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                    </div>
-                                    {/**CARD OVERLAY */}
-                                    <div class="card-overlay">
-                                        <div class="card-overlay-a-content">
-                                            {/**CARD HEADER */}
-                                            <div class="card-header-a">
-                                                <h2 class="card-title-a">
-                                                    Troupe
-                                                    <br /> Source
-                                                </h2>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                        {/**TROUPE FLAMME */}
-                        <div class="col-md-4">
-                            <a href="troupe-flamme">
-                                <div class="card-box-a card-shadow">
-                                    {/**IMAGE BOX */}
-                                    <div class="img-box-a">
-                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                    </div>
-                                    {/**CARD OVERLAY */}
-                                    <div class="card-overlay">
-                                        <div class="card-overlay-a-content">
-                                            {/**CARD HEADER */}
-                                            <div class="card-header-a">
-                                                <h2 class="card-title-a">
-                                                    Troupe
-                                                    <br /> Flamme
+                                                    <br /> Cascade
                                                 </h2>
                                             </div>
                                         </div>
@@ -205,8 +155,9 @@ function Eclaireurs(props) {
                 </div>
             </section>
 
+
         </div>
     );
 }
 
-export default Eclaireurs;
+export default BrancheEclaireuses;

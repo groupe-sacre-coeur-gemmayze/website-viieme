@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Louvettes (props) {
+function BrancheLouveteaux(props) {
     return(
         <div>
             <section className="intro-single">
@@ -8,7 +8,7 @@ function Louvettes (props) {
                     <div className="row">
                         <div className="col-md-12 col-lg-8">
                             <div className="title-single-box">
-                                <h1 className="title-single">Branche Louvettes</h1>
+                                <h1 className="title-single">Branche Louveteaux</h1>
                             </div>
                         </div>
                     </div>
@@ -18,4 +18,4 @@ function Louvettes (props) {
     );
 }
 
-export default Louvettes;
+export default BrancheLouveteaux;

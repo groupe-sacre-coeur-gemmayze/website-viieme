@@ -14,19 +14,19 @@ import Activites from './ActivitesComponent';
 import Anciens from './AnciensComponent';
 import Contact from './ContactComponent';
 import Branches from './BranchesComponent';
-import Louvettes from './LouvettesComponent';
+import BrancheLouvettes from './BrancheLouvettesComponent';
 import MeuteMistral from './MeuteMistralComponent';
-import Louveteaux from './LouveteauxComponent';
+import BrancheLouveteaux from './BrancheLouveteauxComponent';
 import MeuteMagma from './MeuteMagmaComponent';
 import MeuteBlizzard from './MeuteBlizzardComponent';
-import Eclaireuses from './EclaireusesComponent';
+import BrancheEclaireuses from './BrancheEclaireusesComponent';
 import TroupeCascade from './TroupeCascadeComponent';
-import Eclaireurs from './EclaireursComponent';
+import BrancheEclaireurs from './BrancheEclaireursComponent';
 import TroupeEtoile from './TroupeEtoileComponent';
 import TroupeSource from './TroupeSourceComponent';
 import TroupeFlamme from './TroupeFlammeComponent';
-import Pionnieres from './PionnieresCpmponent';
-import Routiers from './RoutiersComponent';
+import BranchePionnieres from './BranchePionnieresComponent';
+import BrancheRoute from './BrancheRouteComponent';
 import { Switch, Route, Redirect} from 'react-router-dom';
 
 class Main extends Component { 
@@ -52,19 +52,19 @@ class Main extends Component {
                     <Route exact path="/anciens" component={Anciens} />
                     <Route exact path="/contact" component={Contact} />
                     <Route exact path="/branches" component={Branches} />
-                    <Route exact path="/louvettes" component={Louvettes} />
+                    <Route exact path="/branche-louvettes" component={BrancheLouvettes} />
                     <Route exact path="/meute-mistral" component={MeuteMistral} />
-                    <Route exact path="/louveteaux" component={Louveteaux} />
+                    <Route exact path="/branche-louveteaux" component={BrancheLouveteaux} />
                     <Route exact path="/meute-magma" component={MeuteMagma} />
                     <Route exact path="/meute-blizzard" component={MeuteBlizzard} />
-                    <Route exact path="/eclaireuses" component={Eclaireuses} />
+                    <Route exact path="/branche-eclaireuses" component={BrancheEclaireuses} />
                     <Route exact path="/troupe-cascade" component={TroupeCascade} />
-                    <Route exact path="/eclaireurs" component={Eclaireurs} />
+                    <Route exact path="/branche-eclaireurs" component={BrancheEclaireurs} />
                     <Route exact path="/troupe-etoile" component={TroupeEtoile} />
                     <Route exact path="/troupe-source" component={TroupeSource} />
                     <Route exact path="/troupe-flamme" component={TroupeFlamme} />
-                    <Route exact path="/pionnieres" component={Pionnieres} />
-                    <Route exact path="/routiers" component={Routiers} />
+                    <Route exact path="/branche-pionnieres" component={BranchePionnieres} />
+                    <Route exact path="/branche-route" component={BrancheRoute} />
                     <Redirect to ='/home' />                    
                 </Switch>
 
