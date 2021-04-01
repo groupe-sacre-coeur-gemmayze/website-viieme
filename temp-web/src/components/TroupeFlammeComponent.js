@@ -833,9 +833,6 @@ function TroupeFlamme (props) {
                         </Row>
                     </TabPane>
 
-
-
-
                 </TabContent>
             </div>
         

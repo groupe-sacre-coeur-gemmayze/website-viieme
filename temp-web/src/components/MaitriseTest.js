@@ -25,7 +25,7 @@ function MaitriseTest(props) {
                 </div>
             </section>
 
-            <div className="col-md-8 offset-md-2">
+            <div className="col-md-10 offset-md-1">
                 {/**TAB BAR */}
                 <Nav className="nav nav-pills-a nav-pills mb-3" id="pills-tab" role="tablist">
                     {/**MAITRISE DE GROUPE TAB */}
@@ -125,7 +125,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Frère <br/> Jean-Claude <br/> Abou-Atmeh</a>
+                                                    Frère <br/> Jean-Claude <br/> Abou-Atmeh
                                                 </h3>
                                             </div>
                                         </div>
@@ -163,7 +163,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Maroun <br/> Fahed</a>
+                                                    Maroun <br/> Fahed
                                                 </h3>
                                             </div>
                                         </div>
@@ -218,7 +218,7 @@ function MaitriseTest(props) {
                                             <div className="card-header-d">
                                                 <div className="card-title-d align-self-center">
                                                     <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Emmanuelle Zovighian</a>
+                                                        Emmanuelle Zovighian
                                                     </h3>
                                                 </div>
                                             </div>
@@ -256,7 +256,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Sarah Chidiac</a>
+                                                    Sarah Chidiac
                                                 </h3>
                                             </div>
                                         </div>
@@ -292,7 +292,7 @@ function MaitriseTest(props) {
                                 </div>
                             </Col>
 
-                            {/**CHEFTAINE MEUTE MISTRAL */}
+                            {/**CHEFTAINE MEUTE MAGMA */}
                             <Col md="4">        
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
@@ -308,7 +308,7 @@ function MaitriseTest(props) {
                                             <div className="card-header-d">
                                                 <div className="card-title-d align-self-center">
                                                     <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Jana Adaimy</a>
+                                                        Jana Adaimy
                                                     </h3>
                                                 </div>
                                             </div>
@@ -330,7 +330,7 @@ function MaitriseTest(props) {
                                     </div>
                             </Col>
 
-                            {/**ASSISTANTE MEUTE MISTRAL */}
+                            {/**ASSISTANTE MEUTE MAGMA */}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
@@ -346,7 +346,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Marielle Fahed</a>
+                                                    Marielle Fahed
                                                 </h3>
                                             </div>
                                         </div>
@@ -399,7 +399,7 @@ function MaitriseTest(props) {
                                             <div className="card-header-d">
                                                 <div className="card-title-d align-self-center">
                                                     <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Anna Kamar</a>
+                                                        Anna Kamar
                                                     </h3>
                                                 </div>
                                             </div>
@@ -455,7 +455,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Samantha el Khoury</a>
+                                                    Samantha el Khoury
                                                 </h3>
                                             </div>
                                         </div>
@@ -493,7 +493,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Nour Haddad</a>
+                                                    Nour Haddad
                                                 </h3>
                                             </div>
                                         </div>
@@ -531,7 +531,7 @@ function MaitriseTest(props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Cynthia Mnayar</a>
+                                                    Cynthia Mnayar
                                                 </h3>
                                             </div>
                                         </div>
