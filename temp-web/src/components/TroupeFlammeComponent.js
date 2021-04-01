@@ -76,9 +76,9 @@ function TroupeFlamme (props) {
                     </NavItem>
                 </Nav>
 
-                {/**MAITRISE CONTENT */}
+                {/**TROUPE FLAMME CONTENT */}
                 <TabContent activeTab={activeTab} className="tab-content" id="pills-tabContent">
-                    {/**MDG CONTENT */}
+                    {/**MAITRISE CONTENT */}
                     <TabPane tabId="1" className="tab-pane fade show" id="pills-mdg" role="tabpanel" aria-labelledby="pills-mdg-tab">
                         <Row>
                             {/**CHEF */}
@@ -90,27 +90,27 @@ function TroupeFlamme (props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/anthony-jreige.jpeg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Anthony <br/> Jreige
+                                                    First <br/> Last
                                                 </h3>
                                             </div>
                                         </div>
 
                                             <div className="card-body-d">
                                                 <p className="content-d color-text-a">
-                                                    dit Hulotte Désopilant
+                                                    dit Example Example
                                                 </p>
                                                 <div className="info-agents color-a">
                                                     <p>
-                                                        <strong>Phone: </strong> +961 71 145 497
+                                                        <strong>Phone: </strong> +961 123 456
                                                     </p>
                                                     <p>
-                                                        <strong>Email: </strong> anthonyjreige@example.com
+                                                        <strong>Email: </strong> ct@example.com
                                                     </p>
                                                 </div>
                                             </div>
@@ -128,27 +128,27 @@ function TroupeFlamme (props) {
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/frere-jean-claude.jpg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Frère <br/> Jean-Claude <br/> Abou-Atmeh</a>
+                                                    First <br/> Last
                                                 </h3>
                                             </div>
                                         </div>
 
                                         <div className="card-body-d">
                                             <p className="content-d color-text-a">
-                                                dit Garo Altuiste
+                                                dit Example Example
                                             </p>
                                             <div className="info-agents color-a">
                                                 <p>
-                                                    <strong>Phone: </strong> +961 76 880 017
+                                                    <strong>Phone: </strong> +961 123 456
                                                 </p>
                                                 <p>
-                                                    <strong>Email: </strong> frerejeanclaude@example.com
+                                                    <strong>Email: </strong> act1@example.com
                                                 </p>
                                             </div>
                                         </div>
@@ -165,28 +165,28 @@ function TroupeFlamme (props) {
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/maroun-fahed.jpg" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
 
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Maroun <br/> Fahed</a>
+                                                    Fisrt <br/> Last
                                                 </h3>
                                             </div>
                                         </div>
 
                                         <div className="card-body-d">
                                             <p className="content-d color-text-a">
-                                                    dit Hamadryas Laborieux
+                                                    dit Example Example
                                                 </p>
                                             <div className="info-agents color-a">
                                                     <p>
-                                                        <strong>Phone: </strong> +961 71 626 282
+                                                        <strong>Phone: </strong> +961 123 456
                                                     </p>
                                                     <p>
-                                                        <strong>Email: </strong> marounfahed@example.com
+                                                        <strong>Email: </strong> act2@example.com
                                                     </p>
                                                 </div>
                                         </div>
@@ -197,10 +197,9 @@ function TroupeFlamme (props) {
                         </Row>
                     </TabPane>
 
-                    {/**MEUTES CONTENT */}
+                    {/**POULAINS */}
                     <TabPane tabId="2" className="tab-pane fade show" id="pills-meutes" role="tabpanel" aria-labelledby="meutes-plans-tab">
                         
-                        {/**MEUTE MISTRAL */}
                         <Row>
 
                             {/**CP */}
@@ -219,7 +218,7 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">First Last</a>
+                                                    First Last P
                                                 </h3>
                                             </div>
                                         </div>
@@ -245,7 +244,7 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">First Last</a>
+                                                    First Last P
                                                 </h3>
                                             </div>
                                         </div>
@@ -270,7 +269,7 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">First Last</a>
+                                                    First Last P
                                                 </h3>
                                             </div>
                                         </div>
@@ -295,7 +294,7 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Fisrt Last</a>
+                                                    Fisrt Last P
                                                 </h3>
                                             </div>
                                         </div>
@@ -320,7 +319,7 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Fisrt Last</a>
+                                                    Fisrt Last P
                                                 </h3>
                                             </div>
                                         </div>
@@ -329,7 +328,7 @@ function TroupeFlamme (props) {
                                 <br/><br/>
                             </Col>
 
-                            {/**Membre 5*/}
+                            {/**Membre 4*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
@@ -345,7 +344,166 @@ function TroupeFlamme (props) {
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Fisrt Last</a>
+                                                    Fisrt Last P
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                <br/><br/>
+                            </Col>
+
+                        </Row>
+                    </TabPane>
+                    
+                    {/**RENARDS */}
+                    <TabPane tabId="3" className="tab-pane fade show" id="pills-meutes" role="tabpanel" aria-labelledby="meutes-plans-tab">
+                        
+                        <Row>
+
+                            {/**CP */}
+                            <Col md="4">        
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">CP</h2>
+                                    </div>
+                                </div>
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    First Last R
+                                                </h3>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <br/><br/>
+                            </Col>
+
+                            {/**SP */}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">SP</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    First Last R
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>   
+                                <br/><br/>
+                            </Col>
+
+                            {/**Membre 1*/}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">Patrouillard</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    First Last R
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br/><br/>
+                            </Col>
+
+                            {/**Membre 2*/}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">Patrouillard</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    Fisrt Last R
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                <br/><br/>
+                            </Col>
+
+                            {/**Membre 3*/}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">Patrouillard</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    Fisrt Last R
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>  
+                                <br/><br/>
+                            </Col>
+
+                            {/**Membre 4*/}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">Patrouillard</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    Fisrt Last R
                                                 </h3>
                                             </div>
                                         </div>
@@ -357,862 +515,326 @@ function TroupeFlamme (props) {
                         </Row>
                     </TabPane>
 
-                    {/**TROUPES CONTENT */}
-                    <TabPane tabId="3" className="tab-pane fade show" id="pills-troupes" role="tabpanel" aria-labelledby="troupes-plans-tab">
+                    {/**LEOPARDS */}
+                    <TabPane tabId="4" className="tab-pane fade show" id="pills-meutes" role="tabpanel" aria-labelledby="meutes-plans-tab">
                         
-                        {/**TROUPE CASCADE*/}
                         <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Troupe Cascade</h2>
-                                    </div>
-                                </div>
-                            </Col>
 
-                            {/**CHEFTAINE TROUPE CASCADE*/}
+                            {/**CP */}
                             <Col md="4">        
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Cheftaine</h2>
+                                        <h2 className=" title-a">CP</h2>
                                     </div>
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/samantha-elkhoury.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
 
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Samantha el Khoury</a>
+                                                    First Last L
                                                 </h3>
                                             </div>
                                         </div>
 
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dite Chickaree Enthousiaste
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 76 091 827
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> samanthaelkhoury@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
+                                <br/><br/>
                             </Col>
 
-                            {/**ASSISTANTE TROUPE CASCADE*/}
+                            {/**SP */}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Assitante</h2>
+                                        <h2 className=" title-a">SP</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/nour-haddad.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Nour Haddad</a>
+                                                    First Last L
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dite Manati Diligente
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 3 017 669
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> nourhaddad@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
+                                </div>   
+                                <br/><br/>
                             </Col>
 
-                            {/**ASSISTANTE TROUPE CASCADE*/}
+                            {/**Membre 1*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Assitante</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/cynthia-mnayar.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Cynthia Mnayar</a>
+                                                    First Last L
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dite Chacma Enigmatique
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 064 010
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> cynthiamnayar@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-
-                        </Row>
-
-                        <br/><br/>
-
-                        {/**TROUPE ETOILE*/}
-                        <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Troupe Etoile</h2>
                                     </div>
                                 </div>
+                                <br/><br/>
                             </Col>
 
-                            {/**CHEF TROUPE ETOILE*/}
-                            <Col md="4">        
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Chef</h2>
-                                    </div>
-                                </div>
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                                    <img src="assets/images/maitrise/rudy-badawi.JPG" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
-
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Rudy Badawi</a>
-                                                    </h3>
-                                                </div>
-                                            </div>
-
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dit Alouatta Fiable
-                                                </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 71 451 045
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> rudybadawi@example.com
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </Col>
-
-                            {/**ASSISTANT TROUPE ETOILE*/}
+                            {/**Membre 2*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/carl-saad.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Carl Saad</a>
+                                                    Fisrt Last L
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Hyrax Inventif
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 70 591 722
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> carlsaad@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
+                                </div>  
+                                <br/><br/>
                             </Col>
 
-                            {/**ASSISTANT TROUPE ETOILE*/}
+                            {/**Membre 3*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/michel-saloume.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Michel Saloumi</a>
+                                                    Fisrt Last L
                                                 </h3>
                                             </div>
                                         </div>
+                                    </div>
+                                </div>  
+                                <br/><br/>
+                            </Col>
 
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Beringues Humble
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 511 357
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> michelsaloumi@example.com
-                                                </p>
+                            {/**Membre 4*/}
+                            <Col md="4">                
+                                <div className="title-wrap d-flex justify-content-between">
+                                    <div className="title-box">
+                                        <h2 className=" title-a">Patrouillard</h2>
+                                    </div>
+                                </div>
+                                
+                                <div className="card-box-d">
+                                    <div className="card-img-d">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    Fisrt Last L
+                                                </h3>
                                             </div>
                                         </div>
                                     </div>
-                                </div>    
+                                </div>  
+                                <br/><br/>
                             </Col>
 
                         </Row>
-
-                        <br/><br/>
-
-                        {/**TROUPE SOURCE*/}
-                        <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Troupe Source</h2>
-                                    </div>
-                                </div>
-                            </Col>
-
-                            {/**CHEF TROUPE SOURCE*/}
-                            <Col md="4">        
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Chef</h2>
-                                    </div>
-                                </div>
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                                    <img src="assets/images/maitrise/jack-mouaykel.JPG" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
-
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Jack Mouaykel</a>
-                                                    </h3>
-                                                </div>
-                                            </div>
-
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dit Guanaco Hardi
-                                                </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 76 711 213
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> jackmouaykel@example.com
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </Col>
-                        
-                            {/**ASSISTANT TROUPE SOURCE*/}
-                            <Col md="4">                
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
-                                    </div>
-                                </div>
-                                
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                        <img src="assets/images/maitrise/alexis-hajj.JPG" alt="" className="img-d img-fluid"/>
-                                    </div>
-                                    <div className="card-overlay card-overlay-hover">
-                                        <div className="card-header-d">
-                                            <div className="card-title-d align-self-center">
-                                                <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Alexis Hajj</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Atèles Débrouillard
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 78 844 635
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> alexishajj@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-                            {/**ASSISTANT TROUPE SOURCE*/}
-                            <Col md="4">                
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
-                                    </div>
-                                </div>
-                                
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                        <img src="assets/images/maitrise/charbel-abdallah.JPG" alt="" className="img-d img-fluid"/>
-                                    </div>
-                                    <div className="card-overlay card-overlay-hover">
-                                        <div className="card-header-d">
-                                            <div className="card-title-d align-self-center">
-                                                <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Charbel Abdallah</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Cariboux Fiable
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 733 046
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> charbelabdallah@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-                        </Row>
-
-                        <br/><br/>
-
-                        {/**TROUPE FLAMME*/}
-                        <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Troupe Flamme</h2>
-                                    </div>
-                                </div>
-                            </Col>
-
-                            {/**CHEF TROUPE FLAMME*/}
-                            <Col md="4">        
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Chef</h2>
-                                    </div>
-                                </div>
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                                    <img src="assets/images/maitrise/fayssal-balhawan.JPG" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
-
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        <a href="agent-single.html" className="link-two">Fayssal Balhawan</a>
-                                                    </h3>
-                                                </div>
-                                            </div>
-
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dit Aguarà Compétant
-                                                </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 71 315 342
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> fayssalbalhawan@example.com
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </Col>
-                        
-                            {/**ASSISTANT TROUPE FLAMME*/}
-                            <Col md="4">                
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
-                                    </div>
-                                </div>
-                                
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                        <img src="assets/images/maitrise/mario-jreige.JPG" alt="" className="img-d img-fluid"/>
-                                    </div>
-                                    <div className="card-overlay card-overlay-hover">
-                                        <div className="card-header-d">
-                                            <div className="card-title-d align-self-center">
-                                                <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Mario Jreige</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Quokka Méthodique
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 3 764 336
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> mariojreige@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-                            {/**ASSISTANT TROUPE FLAMME*/}
-                            <Col md="4">                
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Assitant</h2>
-                                    </div>
-                                </div>
-                                
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                        <img src="assets/images/maitrise/michel-saliba.JPG" alt="" className="img-d img-fluid"/>
-                                    </div>
-                                    <div className="card-overlay card-overlay-hover">
-                                        <div className="card-header-d">
-                                            <div className="card-title-d align-self-center">
-                                                <h3 className="title-d">
-                                                    <a href="agent-single.html" className="link-two">Michel Saliba</a>
-                                                </h3>
-                                            </div>
-                                        </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Beringueï Fidèle
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 76 194 575
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> michelsaliba@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-                        </Row>
-
                     </TabPane>
 
-                    {/**CLANS CONTENT */}
-                    <TabPane tabId="4" className="tab-pane fade show" id="pills-clans" role="tabpanel" aria-labelledby="clans-plans-tab">
-                        {/**CLAN DES PIONNIERES*/}
+                    {/**ECUREILS */}
+                    <TabPane tabId="5" className="tab-pane fade show" id="pills-meutes" role="tabpanel" aria-labelledby="meutes-plans-tab">
+                        
                         <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Clan des Pionnières</h2>
-                                    </div>
-                                </div>
-                            </Col>
 
-                            {/**CHEFTAINE CLAN DES PIONNIERES*/}
+                            {/**CP */}
                             <Col md="4">        
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">Cheftaine</h2>
+                                        <h2 className=" title-a">CP</h2>
                                     </div>
                                 </div>
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                                    <img src="assets/images/maitrise/sara-naji.JPG" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
+                                    </div>
+                                    <div className="card-overlay card-overlay-hover">
 
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        Sara Naji
-                                                    </h3>
-                                                </div>
-                                            </div>
-
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dite Antilop Cabrée
-                                                </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 76 491 466
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> sara naji@example.com
-                                                    </p>
-                                                </div>
+                                        <div className="card-header-d">
+                                            <div className="card-title-d align-self-center">
+                                                <h3 className="title-d">
+                                                    First Last E
+                                                </h3>
                                             </div>
                                         </div>
+
                                     </div>
+                                </div>
+                                <br/><br/>
                             </Col>
 
-                            {/**CE CYCLONE*/}
+                            {/**SP */}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">CE Cyclone</h2>
+                                        <h2 className=" title-a">SP</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/maria-salameh.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Maria Salameh
+                                                    First Last E
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dite Quokka Egaye
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 409 076
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> mariasalameh@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
+                                </div>   
+                                <br/><br/>
                             </Col>
 
-                            {/**CE AVALANCHE*/}
+                            {/**Membre 1*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">CE Avalanche</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/mira-harik.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Mira Harik
+                                                    First Last E
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dite Gloutton Bien Veillante
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 76 016 380
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> frerejeanclaude@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
-                            </Col>
-
-
-                        </Row>
-
-                        <br/><br/>
-
-                        {/**CLAN DES ROUTIER*/}
-                        <Row>
-                            {/**TITLE */}
-                            <Col md="12">
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className="title-a">Clan des Routiers</h2>
                                     </div>
                                 </div>
+                                <br/><br/>
                             </Col>
 
-                            {/**CHEF CLAN DES ROUTIERS*/}
-                            <Col md="4">        
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">Chef</h2>
-                                    </div>
-                                </div>
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                                    <img src="assets/images/maitrise/elie-feghali.JPG" alt="" className="img-d img-fluid"/>
-                                                </div>
-                                        <div className="card-overlay card-overlay-hover">
-
-                                            <div className="card-header-d">
-                                                <div className="card-title-d align-self-center">
-                                                    <h3 className="title-d">
-                                                        Elie Feghaly
-                                                    </h3>
-                                                </div>
-                                            </div>
-
-                                            <div className="card-body-d">
-                                                <p className="content-d color-text-a">
-                                                    dit Mangouste Courtois
-                                                </p>
-                                                <div className="info-agents color-a">
-                                                    <p>
-                                                        <strong>Phone: </strong> +961 70 365 969
-                                                    </p>
-                                                    <p>
-                                                        <strong>Email: </strong> eliefeghaly@example.com
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </Col>
-
-                            {/**CE ZENITH*/}
+                            {/**Membre 2*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">CE Zénith</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/fadi-suidan.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Fadi Suidan
+                                                    Fisrt Last E
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Oryx Cordial
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 70 992 314
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> fadisuidan@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
+                                </div>  
+                                <br/><br/>
                             </Col>
 
-                            {/**CE OURAGAN*/}
+                            {/**Membre 3*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">CE Ouragan</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/eloy-nemer.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Eloy Nemer
+                                                    Fisrt Last E
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Fossa Syndiqué
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 788 493
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> eloynemer@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
+                                </div>  
+                                <br/><br/>
                             </Col>
 
-                            {/**CE PEGASE*/}
+                            {/**Membre 4*/}
                             <Col md="4">                
                                 <div className="title-wrap d-flex justify-content-between">
                                     <div className="title-box">
-                                        <h2 className=" title-a">CE Pégase</h2>
+                                        <h2 className=" title-a">Patrouillard</h2>
                                     </div>
                                 </div>
                                 
                                 <div className="card-box-d">
                                     <div className="card-img-d">
-                                        <img src="assets/images/maitrise/tarek-sukkar.JPG" alt="" className="img-d img-fluid"/>
+                                        <img src="assets/images/agent-6.jpg" alt="" className="img-d img-fluid"/>
                                     </div>
                                     <div className="card-overlay card-overlay-hover">
                                         <div className="card-header-d">
                                             <div className="card-title-d align-self-center">
                                                 <h3 className="title-d">
-                                                    Tarek Sukkar
+                                                    Fisrt Last E
                                                 </h3>
                                             </div>
                                         </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Bush Dog Laborieux
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 81 784 771
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> tareksukkar@example.com
-                                                </p>
-                                            </div>
-                                        </div>
                                     </div>
-                                </div>    
-                            </Col>
-
-                            {/**CE 109*/}
-                            <Col md="4">                
-                                <div className="title-wrap d-flex justify-content-between">
-                                    <div className="title-box">
-                                        <h2 className=" title-a">CE 109</h2>
-                                    </div>
-                                </div>
-                                
-                                <div className="card-box-d">
-                                    <div className="card-img-d">
-                                        <img src="assets/images/maitrise/walid-zakhour.JPG" alt="" className="img-d img-fluid"/>
-                                    </div>
-                                    <div className="card-overlay card-overlay-hover">
-                                        <div className="card-header-d">
-                                            <div className="card-title-d align-self-center">
-                                                <h3 className="title-d">
-                                                    Walid Zakhour
-                                                </h3>
-                                            </div>
-                                        </div>
-
-                                        <div className="card-body-d">
-                                            <p className="content-d color-text-a">
-                                                dit Bison Baraqué
-                                            </p>
-                                            <div className="info-agents color-a">
-                                                <p>
-                                                    <strong>Phone: </strong> +961 71 496 467
-                                                </p>
-                                                <p>
-                                                    <strong>Email: </strong> walidzakhour@example.com
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>    
+                                </div>  
+                                <br/><br/>
                             </Col>
 
                         </Row>
-
                     </TabPane>
+
+
+
 
                 </TabContent>
             </div>
