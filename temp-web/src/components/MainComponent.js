@@ -12,6 +12,7 @@ import Maitrise from './MaitriseComponent';
 import MaitriseTest from './MaitriseTest';
 import Activites from './ActivitesComponent';
 import Anciens from './AnciensComponent';
+import AnciensForm from './AnciensFormComponent';
 import Contact from './ContactComponent';
 import Branches from './BranchesComponent';
 import BrancheLouvettes from './BrancheLouvettesComponent';
@@ -51,6 +52,7 @@ class Main extends Component {
                     <Route exact path="/maitrise" component={MaitriseTest} />
                     <Route exact path="/activites" component={Activites} />
                     <Route exact path="/anciens" component={Anciens} />
+                    <Route exact path="/anciens-form" component={AnciensForm} />
                     <Route exact path="/contact" component={Contact} />
                     <Route exact path="/branches" component={Branches} />
                     <Route exact path="/branche-louvettes" component={BrancheLouvettes} />

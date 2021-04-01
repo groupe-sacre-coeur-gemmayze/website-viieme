@@ -23,8 +23,7 @@ class Contact extends Component {
                     <div className="container">
                         <div className="row">
 
-
-                        <div className="col-sm-12">
+                            <div className="col-sm-12">
                                 <div className="row">
 
                                     {/**GOOGLE MAPS */}
@@ -119,8 +118,6 @@ class Contact extends Component {
 
                                 </div>
                             </div>
-
-
 
                             <div className="col-sm-12 section-t8">
                                 <div className="row">
