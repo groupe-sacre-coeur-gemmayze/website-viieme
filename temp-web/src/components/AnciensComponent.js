@@ -23,15 +23,30 @@ const carouselAnciens = [
 
     return(
         <div>
-            {/**PAGE TITLE */}
+            {/**PAGE TITLE AND REGISTRATION*/}
             <section className="intro-single">
                 <div className="container">
                     <div className="row">
+                        {/**PAGE TITLE */}
                         <div className="col-md-12 col-lg-8">
                             <div className="title-single-box">
                                 <h1 className="title-single">Anciens</h1>
                             </div>
                         </div>
+                        {/**STAY CONNECTED*/}
+                        <div class="col-md-12 col-lg-4">
+                            <nav aria-label="breadcrumb" class="breadcrumb-box d-flex justify-content-lg-end">
+                                <ol class="breadcrumb">
+                                    <li class="breadcrumb-item">
+                                        <a href="#">
+                                            Stay Conected &nbsp;
+                                            <i class="fas fa-users"></i>
+                                        </a>
+                                    </li>
+                                </ol>
+                            </nav>
+                        </div>
+
                     </div>
                 </div>
             </section>
