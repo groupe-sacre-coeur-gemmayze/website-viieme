@@ -24,18 +24,12 @@ function BrancheEclaireurs(props) {
                         <div className="col-sm-12">
                             {/**IMAGE */}
                             <div className="about-img-box">
-                                <img src="assets/images/troupes.png" alt="" class="img-fluid"/>
-                            </div>
-                            {/**TEXT BOX */}
-                            <div className="sinse-box">
-                                <h3 className="sinse-title">
-                                    Branche Eclaireurs
-                                </h3>
+                                <img src="assets/images/branches/head-eclaireurs.jpg" alt="" class="img-fluid"/>
                             </div>
                         </div>
                         
                         {/**LA METHODE */}
-                        <div className="col-md-12 section-t8">
+                        <div className="col-md-12 section-t3">
                             <div className="row">
                                 {/**LA TROUPE */}
                                 <div className="col-md-12 col-lg-12 section-md-t3">

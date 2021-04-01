@@ -3,6 +3,8 @@ import React from 'react';
 function BrancheLouvettes (props) {
     return(
         <div>
+
+            {/**PAGE TITLE */}
             <section className="intro-single">
                 <div className="container">
                     <div className="row">
@@ -14,6 +16,23 @@ function BrancheLouvettes (props) {
                     </div>
                 </div>
             </section>
+        
+            {/**IMAGE AND METHODE */}
+            <section className="section-about">
+                <div className="container">
+                    <div className="row">
+                        {/**IMAGE AND TEXT BOX */}
+                        <div className="col-sm-12">
+                            {/**IMAGE */}
+                            <div className="about-img-box">
+                                <img src="assets/images/branches/head-louvettes.jpg" alt="" class="img-fluid"/>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </section>
+
         </div>
     );
 }
