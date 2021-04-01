@@ -127,26 +127,28 @@ function Eclaireuses(props) {
                             </div>
                         </div>
                         
-                        {/**TROUPE ETOILE */}
+                        {/**TROUPE CASCADE */}
                         <div class="col-md-4">
-                            <div class="card-box-a card-shadow">
-                                {/**IMAGE BOX */}
-                                <div class="img-box-a">
-                                    <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
-                                </div>
-                                {/**CARD OVERLAY */}
-                                <div class="card-overlay">
-                                    <div class="card-overlay-a-content">
-                                        {/**CARD HEADER */}
-                                        <div class="card-header-a">
-                                            <h2 class="card-title-a">
-                                                <a href="troupe-cascade">Troupe
-                                                <br /> Cascade</a>
-                                            </h2>
+                            <a href="troupe-cascade">
+                                <div class="card-box-a card-shadow">
+                                    {/**IMAGE BOX */}
+                                    <div class="img-box-a">
+                                        <img src="assets/images/troupes.png" alt="" class="img-a img-fluid"/>
+                                    </div>
+                                    {/**CARD OVERLAY */}
+                                    <div class="card-overlay">
+                                        <div class="card-overlay-a-content">
+                                            {/**CARD HEADER */}
+                                            <div class="card-header-a">
+                                                <h2 class="card-title-a">
+                                                    Troupe
+                                                    <br /> Cascade
+                                                </h2>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </a>
                         </div>
 
                     </div>
