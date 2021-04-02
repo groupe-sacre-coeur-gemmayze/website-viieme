@@ -27,7 +27,9 @@ import TroupeEtoile from './TroupeEtoileComponent';
 import TroupeSource from './TroupeSourceComponent';
 import TroupeFlamme from './TroupeFlammeComponent';
 import BranchePionnieres from './BranchePionnieresComponent';
+import ClanDesPionnieres from './ClanDesPionnieresComponent';
 import BrancheRoute from './BrancheRouteComponent';
+import ClanDesRoutiers from './ClanDesRoutiersComponent';
 import Example from './TestComponent';
 import { Switch, Route, Redirect} from 'react-router-dom';
 
@@ -67,7 +69,9 @@ class Main extends Component {
                     <Route exact path="/troupe-source" component={TroupeSource} />
                     <Route exact path="/troupe-flamme" component={TroupeFlamme} />
                     <Route exact path="/branche-pionnieres" component={BranchePionnieres} />
+                    <Route exact path="/clan-des-pionnieres" component={ClanDesPionnieres} />
                     <Route exact path="/branche-route" component={BrancheRoute} />
+                    <Route exact path="/clan-des-routiers" component={ClanDesRoutiers} />
                     <Redirect to ='/home' />                    
                 </Switch>
 
