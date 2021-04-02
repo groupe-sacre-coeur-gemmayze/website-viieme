@@ -78,12 +78,12 @@ function UserPage (props) {
                 </div>
             </section>
 
-            {/** CHEZ LA MEUTE*/}
+            {/** DANS LA MEUTE*/}
             <section className="property-single nav-arrow-b section-t3">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
-                            {/**CHEZ LA MEUTE TITLE */}
+                            {/**DANS LA MEUTE TITLE */}
                             <div className="row justify-content-between">
                                 {/**TITLE COL-SM-12 */}
                                 <div className="col-md-5 col-lg-4">
@@ -96,7 +96,7 @@ function UserPage (props) {
                                                 </span>
                                             </div>
                                             <div className="card-title-c align-self-center">
-                                                <h5 className="title-c">Chez la Meute</h5>
+                                                <h5 className="title-c">Dans la Meute</h5>
                                             </div>
                                         </div>
                                     </div>
@@ -165,12 +165,12 @@ function UserPage (props) {
                 </div>
             </section>
 
-            {/** CHEZ LA TROUPE*/}
+            {/** DANS LA TROUPE*/}
             <section className="property-single nav-arrow-b section-t3">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
-                            {/**CHEZ LA TROUPE TITLE */}
+                            {/**DANS LA TROUPE TITLE */}
                             <div className="row justify-content-between">
                                 {/**TITLE COL-SM-12 */}
                                 <div className="col-md-5 col-lg-4">
@@ -183,7 +183,7 @@ function UserPage (props) {
                                                 </span>
                                             </div>
                                             <div className="card-title-c align-self-center">
-                                                <h5 className="title-c">Chez la Troupe</h5>
+                                                <h5 className="title-c">Dans la Troupe</h5>
                                             </div>
                                         </div>
                                     </div>
@@ -257,12 +257,12 @@ function UserPage (props) {
                 </div>
             </section>
 
-            {/** CHEZ LE CLAN*/}
+            {/** DANS LE CLAN*/}
             <section className="property-single nav-arrow-b section-t3">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">
-                            {/**CHEZ LA TROUPE TITLE */}
+                            {/**DANS LE CLAN TITLE */}
                             <div className="row justify-content-between">
                                 {/**TITLE COL-SM-12 */}
                                 <div className="col-md-5 col-lg-4">
@@ -275,16 +275,46 @@ function UserPage (props) {
                                                 </span>
                                             </div>
                                             <div className="card-title-c align-self-center">
-                                                <h5 className="title-c">Chez le Clan</h5>
+                                                <h5 className="title-c">Dans le Clan</h5>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            {/**PROGRESSION ET BADGES */}
+                            {/**FONCTION, PROGRESSION ET BADGES */}
                             <div className="row justify-content-between">
+                                {/**FONCTION */}
+                                <div className="col-md-4 col-lg-4">
+                                    <div className="property-summary">
+                                        {/**FONCTION TITLE */}
+                                        <div className="row">
+                                            <div className="col-sm-12">
+                                                <div className="title-box-d section-t4">
+                                                    <h3 className="title-d">Fonction</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        {/**FONCTION LISTE */}
+                                        <div class="summary-list">
+                                            <ul class="list">
+                                                <li class="d-flex justify-content-between">
+                                                    <strong>2020-2021:</strong>
+                                                    <span>CE</span>
+                                                </li>
+                                                <li class="d-flex justify-content-between">
+                                                    <strong>2019-2020</strong>
+                                                    <span>Membre</span>
+                                                </li>
+                                                <li class="d-flex justify-content-between">
+                                                    <strong>2018-2019:</strong>
+                                                    <span>Membre</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 {/**PROGRESSION */}
-                                <div className="col-md-5 col-lg-4">
+                                <div className="col-md-4 col-lg-4">
                                     <div className="property-summary">
                                         {/**PROGRESSION TITLE */}
                                         <div className="row">
@@ -314,8 +344,8 @@ function UserPage (props) {
                                     </div>
                                 </div>
                                 {/**JALONS */}
-                                <div className="col-md-7 col-lg-7 section-md-t3">
-                                    {/**BADGES TITLE */}
+                                <div className="col-md-4 col-lg-4 section-md-t3">
+                                    {/**JALONS TITLE */}
                                     <div className="row section-t3">
                                         <div className="col-sm-12">
                                             <div className="title-box-d">
@@ -323,7 +353,7 @@ function UserPage (props) {
                                             </div>
                                         </div>
                                     </div>
-                                    {/**BADGES LISTE */}
+                                    {/**JALONS LISTE */}
                                     <div class="amenities-list color-text-a">
                                         <ul class="list-a no-margin">
                                             <li>Témoin</li>
@@ -338,7 +368,6 @@ function UserPage (props) {
                     </div>
                 </div>
             </section>
-
 
         </div>
     );
