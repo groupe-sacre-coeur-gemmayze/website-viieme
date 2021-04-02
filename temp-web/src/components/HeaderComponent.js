@@ -137,11 +137,12 @@ class Header extends Component{
                                 </Label>
                             </FormGroup>
                             <div class="col-md-12">
+                                <a href="user-page" className="btn btn-b">Login</a>
+                                {/**
                                 <button type="submit" className="btn btn-b">Login</button>
+                                */}
                             </div>
                         </Form>
-                        <hr></hr>
-                        <h4>Or Sign Up</h4>
                     </ModalBody>
                 </Modal>
             </React.Fragment>

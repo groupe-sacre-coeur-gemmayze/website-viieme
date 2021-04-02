@@ -30,6 +30,7 @@ import BranchePionnieres from './BranchePionnieresComponent';
 import ClanDesPionnieres from './ClanDesPionnieresComponent';
 import BrancheRoute from './BrancheRouteComponent';
 import ClanDesRoutiers from './ClanDesRoutiersComponent';
+import UserPage from './UserComponent';
 import Example from './TestComponent';
 import { Switch, Route, Redirect} from 'react-router-dom';
 
@@ -72,6 +73,7 @@ class Main extends Component {
                     <Route exact path="/clan-des-pionnieres" component={ClanDesPionnieres} />
                     <Route exact path="/branche-route" component={BrancheRoute} />
                     <Route exact path="/clan-des-routiers" component={ClanDesRoutiers} />
+                    <Route exact path="/user-page" component={UserPage} />
                     <Redirect to ='/home' />                    
                 </Switch>
 
