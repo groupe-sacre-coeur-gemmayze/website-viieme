@@ -72,7 +72,7 @@ function MeuteMistral (props) {
                             className={classnames({ active: activeTab === '5' })}
                             onClick={() => { toggle('5'); }}
                         >
-                            SIZAINE Z
+                            Sizaine Z
                         </NavLink>
                     </NavItem>
                 </Nav>
