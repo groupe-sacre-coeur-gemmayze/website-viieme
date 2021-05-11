@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { TabContent, TabPane, Nav, NavItem, NavLink, Card, CardImg, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
 import classnames from 'classnames';
+import maitrise from '../maitrise'
 
 function MaitriseTest(props) {
     const [activeTab, setActiveTab] = useState('1');
